@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">saif drawer</string>
+
+    <string name="navigation_drawer_close">Close Navigation Drawer</string>
+    <string name="navigation_drawer_open">Open Navigation Drawer</string>
+    <string name="Ch1">Basic Concepts</string>
+    <string name="Ch2">D.C. Circuits</string>
+    <string name="Ch3">Network Theorems</string>
+    <string name="Ch4">Electrical Work, Power and Energy</string>
+    <string name="Ch5">Electrostatics</string>
+    <string name="Ch6">Capacitance</string>
+    <string name="Ch7">Magnetism and Electromagnetism</string>
+    <string name="Ch8">Magnetic Circuits</string>
+    <string name="Ch9">Electromagnetic Induction</string>
+    <string name="Ch10">Chemical Effects of Electric Current</string>
+    <string name="Ch11">Alternating Current</string>
+    <string name="Ch12">Series A.C. Circuits</string>
+    <string name="Ch13">Phasor Algebra</string>
+    <string name="Ch14">Parallel A.C. Circuits</string>
+    <string name="Ch15">Three Phase Circuits</string>
+    <string name="Ch16">Electrical Measuring Instruments</string>
+</resources>

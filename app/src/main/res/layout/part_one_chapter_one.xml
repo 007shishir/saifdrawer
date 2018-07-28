@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@android:color/holo_orange_light">
+
+    <TextView
+        android:id="@+id/mPartOne_ch1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="chapter one"
+        android:textSize="30sp"
+        />
+    <WebView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/mPartOne_ch1"
+        android:id="@+id/wbw">
+    </WebView>
+
+    <WebView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/wbw"
+        android:paddingTop="10dp"
+        android:id="@+id/wbw2">
+
+    </WebView>
+
+</RelativeLayout>
